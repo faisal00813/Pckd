@@ -1,7 +1,5 @@
 <div id="top"></div>
 
-
-
 <!-- PROJECT Intro -->
 
 ![Pckd](https://user-images.githubusercontent.com/48997634/157104510-21df472c-d0d9-4075-96f1-18aded5905a5.png)
